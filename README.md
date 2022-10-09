@@ -51,7 +51,6 @@ The project has been conducted in 5 steps:
 2. Exploratory Data Analysis (EDA)
 3. Data Transformation
 4. Model Building and Evaluation
-5. Hyperparameter Tuning
 
 Engineered an important feature of pulse pressure using systolic and diastolic blood pressure.
 We've noticed that XBG Classifier is the stand out performer among all models with an f1-score of 0.8397. it's safe to say that XGB Classifier provides an optimal solution to our problem.
